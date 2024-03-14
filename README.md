@@ -1,0 +1,1 @@
+Project done for Computer Science 3 Class. Objective of Project is to create your own integer implementaiton of a Binary Search Tree class to understand what goes on behind the scenes. Project completed on February 1st, 2024. 
